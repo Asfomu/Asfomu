@@ -1,4 +1,11 @@
-## Hi there 👋
+# About me
+
+Industrial PhD student at DHI in collaboration with University of Copenhagen
+
+Working with ICESat-2 and SWOT data processing for hydrodynamic modeling. 
+
+
+
 
 <!--
 **Asfomu/Asfomu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
